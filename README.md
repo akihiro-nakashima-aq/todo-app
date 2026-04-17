@@ -1,5 +1,9 @@
 # Todo App
 
+> このリポジトリは [grill-todo](/.claude/skills/grill-todo/SKILL.md) スキルの動作確認・開発用です。
+>
+> Claude Code で `/grill-todo <追加したい機能>` と入力すると、設計の質問フェーズを経て仕様書・実装計画が自動生成されます。
+
 Next.js + TypeScript + Tailwind CSS + SQLite で作ったミニマルなTodoアプリ。
 
 ## 技術スタック
