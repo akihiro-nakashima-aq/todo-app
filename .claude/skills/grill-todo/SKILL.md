@@ -47,4 +47,4 @@ description: Use when planning any change to this todo app — new features, sch
 ...
 ```
 
-タスクは仕様書の内容から導出し、DBスキーマ変更→Server Actions→UIの順に並べること。実装を進める際はこのファイルのチェックボックスを完了したものから順に `- [x]` に更新してください。
+タスクは仕様書の内容から導出し、DBスキーマ変更→Server Actions→UIの順に並べること。実装中はあなた（Claude）がタスクを完了するたびにこのファイルのチェックボックスを `- [x]` に更新すること。
